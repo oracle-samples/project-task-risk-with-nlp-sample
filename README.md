@@ -1,4 +1,4 @@
-# Predict The Oracle Project Management Project/Task Risk Sentiment with NLP using ODS
+# Predict The Oracle Project Management Project/Task Risk Sentiment with NLP using Oracle Data Science
 
 Many organizations require project managers/supervisors to provide regular project status updates as part of the delivery assurance process. These updates typically consist of text commentary and an associated red-amber-green (RAG) status, where red indicates a failing project/task, amber an at-risk task/project and green an on-track task/project. The project manager often faces the following issues:
 - No status and commentary for task or project
