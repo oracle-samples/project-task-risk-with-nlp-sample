@@ -1,0 +1,15 @@
+# Copyright (c) 2022, Oracle and/or its affiliates.
+# Licensed under the Universal Permissive License v 1.0 as shown at https://oss.oracle.com/licenses/upl.
+
+name: fastai
+channels:
+  - pytorch
+  - bokeh
+  - conda-forge
+  - defaults
+  - fastchan
+dependencies:
+  - fastai
+  - pytorch=1.9.1 
+  - torchvision=0.10.1
+  - cudatoolkit=10.2
