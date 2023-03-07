@@ -130,7 +130,7 @@ python ModeDeployment.py
 
 ## Contributing
 
-See the [contribution guide](CONTRIBUTING.md) for details.
+This project welcomes contributions from the community. Before submitting a pull request, please [review our contribution guide](./CONTRIBUTING.md)
 
 ## Security
 
