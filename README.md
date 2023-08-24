@@ -28,7 +28,8 @@ This demo requires the folloing Oracle Services:
  - [Oracle Cloud Infrastructure API Gateway](https://www.oracle.com/cloud-native/api-gateway/)
  - [Oracle Cloud Infrastructure Vault](https://www.oracle.com/au/security/cloud-security/key-management/)
 
-## Setup
+## Installation
+
 ## Prerequisite
 - OCI CLI was installed and configured on a local machine.
 - Clone this repository
@@ -134,22 +135,19 @@ This project welcomes contributions from the community. Before submitting a pull
 
 ## Security
 
-See the [reporting security vulnerabilities procedure](SECURITY.md) for details.
+Please consult the [security guide](./SECURITY.md) for our responsible security vulnerability disclosure process.
 
 ## Distribution
 
 Developers choosing to distribute a binary implementation of this project are responsible for obtaining and providing all required licenses and copyright notices for the third-party code used in order to ensure compliance with their respective open source licenses.
 
-## Get Help
+## Help
 
 Visit Oracle Cloud Customer Connect Community at [Cloud Customer Connect](https://cloudcustomerconnect.oracle.com) for additional resources and FAQs.
 
 ## License
 
-Licensed under the [Universal Permissive License v 1.0](https://oss.oracle.com/licenses/upl)
+Copyright (c) 2022, 2023 Oracle and / or its affiliates.
 
-See [LICENSE](LICENSE.txt) for details.
-
-## Copyright
-
-Copyright (c) 2022 Oracle and / or its affiliates.
+Released under the Universal Permissive License v1.0 as shown at
+<https://oss.oracle.com/licenses/upl/>.
